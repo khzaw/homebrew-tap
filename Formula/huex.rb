@@ -1,8 +1,8 @@
 class Huex < Formula
   desc "Extract dominant colors from images"
   homepage "https://github.com/khzaw/huex"
-  url "https://github.com/khzaw/huex/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "933a3d009a94d56289d7b06cc066fa3b71624e9d20fbf0d8ebc7613cf84dbea2"
+  url "https://github.com/khzaw/huex/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "f452b4640c9dd1c0fecb1e7964146bd27fdfdcbbf28e7d0173213954bebbc605"
   license "MIT"
 
   depends_on "rust" => :build
